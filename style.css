@@ -1,0 +1,24 @@
+header {
+    background-color: #c2c2c2;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: auto;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
