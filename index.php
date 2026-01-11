@@ -2,7 +2,7 @@
 
 <section>
     <h3>cherche le juste prix</h3>
-    <form action="cherche.php" method="GET">
+    <form action="cherche.php" method="POST">
         <button type="submit">Jouer</button>
     </form>
 </section>

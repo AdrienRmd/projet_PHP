@@ -9,13 +9,13 @@
     <title>projet</title>
 </head>
 
-<header>
-    <nav>
-        <ul>
-            <li><a href="cherche.php">Devinette</a></li>
-            <li><a href="classe.php">classe</a></li>
-        </ul>
-    </nav>
-</header>
-
 <body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="cherche.php">Devinette</a></li>
+                <li><a href="classe.php">classe</a></li>
+            </ul>
+        </nav>
+    </header>
