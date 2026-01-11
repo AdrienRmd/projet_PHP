@@ -1,0 +1,47 @@
+# Fichiers de documentation
+*.md
+
+# Fichiers de configuration de l'environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de log
+*.log
+
+# Fichiers de cache
+cache/
+*.cache
+
+# Fichiers de données
+donnees.json
+
+# Dossiers de dépendances
+node_modules/
+vendor/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration Apache/Apache
+.htaccess
+
+# Fichiers de session PHP
+sess_*
+!README.md
